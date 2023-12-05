@@ -1,6 +1,6 @@
 # Pix2Pix Pytorch Lightning implementation
 
-This is an unofficial implementation using Pytorch Lightining. The code has been tested with Ubuntu 20.04, python 3.8.10, cuda 11.8 and pytorch lightning 2.0.1. To start using the repository:
+This is an unofficial implementation using Pytorch Lightining. The code has been tested with Ubuntu 20.04, python 3.8.10, cuda 11.8 and pytorch lightning 2.0.1. You can watch the deployment of this repository in [this video](https://youtu.be/gB1oNYpB2hk).
 
 ## Installation
 
