@@ -1,0 +1,9 @@
+pytorch_lightning==2.0.4
+torch==2.0.1
+torchvision==0.16.0
+gdown==4.7.1
+numpy==1.24.4
+opencv-python==4.8.0.76
+tensorboardX
+h5py
+torchmetrics
